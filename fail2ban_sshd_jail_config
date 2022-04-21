@@ -1,0 +1,8 @@
+port      = <enter port number>
+enabled   = true
+maxretry  = 3
+findtime  = 1d
+bantime   = 4w
+ignoreip  = 127.0.0.1/8
+logpath   = %(sshd_log)s
+backend   = %(sshd_backend)s
