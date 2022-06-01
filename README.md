@@ -4,4 +4,4 @@
 ### Fail2Ban is able to reduce the rate of incorrect authentications attempts however it cannot eliminate the risk that weak authentication presents. Configure services to use only two factor or public/private authentication mechanisms if you really want to protect services."
 https://www.fail2ban.org/wiki/index.php/Main_Page
 
-Respository for preferred Fail2Ban jail setting templates.
+#### Respository for preferred Fail2Ban jail setting templates.
