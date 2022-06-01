@@ -1,1 +1,1 @@
-Respository for FAIL2BAN jail settings.
+Respository for FAIL2BAN jails
