@@ -1,2 +1,2 @@
 # fail2ban
-Respository for FAIL2BAN jails
+Respository for preferred FAIL2BAN jail settings.
